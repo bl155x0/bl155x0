@@ -1,9 +1,8 @@
-
 👋 Hi, I’m bl155
 
 👀 I’m interested in coding, hacking, cybersecurity, CTFs, Bug Bounty and many more...
 
-🌱 I’m currently learning [go](https://go.dev/) and hacking
+🌱 I’m always learning new things, currently exploring Go and offensive security
 
 💞️ I’m looking to collaborate on CTFs, Bug Bounty, pentesting
 
